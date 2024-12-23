@@ -337,7 +337,7 @@
                   "labelTextSize": "0.875rem",
                   "originalIdentifier": "id",
                   "position": 1,
-                  "sourceData": 53
+                  "sourceData": 12
                 },
                 "name": {
                   "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -358,7 +358,7 @@
                   "labelTextSize": "0.875rem",
                   "originalIdentifier": "name",
                   "position": 0,
-                  "sourceData": "Thriller"
+                  "sourceData": "Adventure"
                 }
               },
               "dataType": "object",
@@ -373,8 +373,8 @@
               "originalIdentifier": "__array_item__",
               "position": -1,
               "sourceData": {
-                "id": 53,
-                "name": "Thriller"
+                "id": 12,
+                "name": "Adventure"
               }
             }
           },
@@ -393,16 +393,20 @@
           "position": 10,
           "sourceData": [
             {
-              "id": 28,
-              "name": "Action"
+              "id": 16,
+              "name": "Animation"
             },
             {
-              "id": 80,
-              "name": "Crime"
+              "id": 35,
+              "name": "Comedy"
             },
             {
-              "id": 53,
-              "name": "Thriller"
+              "id": 10751,
+              "name": "Family"
+            },
+            {
+              "id": 12,
+              "name": "Adventure"
             }
           ]
         },
@@ -607,7 +611,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "vote_average",
           "position": 4,
-          "sourceData": 6
+          "sourceData": 7.8
         },
         "vote_count": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -629,7 +633,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "vote_count",
           "position": 7,
-          "sourceData": 112
+          "sourceData": 371
         }
       },
       "dataType": "object",

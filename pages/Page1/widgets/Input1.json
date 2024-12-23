@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 104,
+  "bottomRow": 100,
   "boxShadow": "none",
   "defaultText": "{{data_table.selectedRow.homepage}}",
   "dynamicBindingPathList": [
