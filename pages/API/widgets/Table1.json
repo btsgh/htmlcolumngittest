@@ -33,15 +33,15 @@
   "columnOrder": [
     "id",
     "name",
-    "status",
     "gender",
     "avatar",
+    "status",
     "email",
     "address",
     "createdAt",
     "updatedAt"
   ],
-  "columnUpdatedAt": 1734920920922,
+  "columnUpdatedAt": 1734924401963,
   "columnWidthMap": {
     "avatar": 122,
     "email": 364
