@@ -109,6 +109,11 @@
       "name": "Movies",
       "pluginId": "mongo-plugin"
     },
+    "dynamicBindingPathList": [
+      {
+        "key": "formData.find.skip.data"
+      }
+    ],
     "executeOnLoad": true,
     "name": "FindQuery",
     "pageId": "Page1",
