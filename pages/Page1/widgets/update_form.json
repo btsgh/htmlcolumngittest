@@ -263,6 +263,9 @@
     },
     {
       "key": "schema.__root_schema__.children.release_date.defaultValue"
+    },
+    {
+      "key": "sourceData"
     }
   ],
   "dynamicTriggerPathList": [
